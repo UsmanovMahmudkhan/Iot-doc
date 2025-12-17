@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
@@ -29,7 +29,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+## Overview
 
 Smart Blind Shoes is an innovative assistive technology project designed to enhance mobility and independence for visually impaired individuals. The system combines hardware sensors, intelligent processing, and a modern web interface to provide real-time obstacle detection and navigation assistance.
 
@@ -41,7 +41,7 @@ Smart Blind Shoes is an innovative assistive technology project designed to enha
 - **Haptic feedback** - Intuitive vibration patterns guide users
 - **Emergency system** - Quick access to help with GPS location sharing
 
-## 🔍 Problem Statement
+## Problem Statement
 
 According to the World Health Organization, over **285 million people worldwide** are visually impaired. Traditional navigation aids like white canes have significant limitations:
 
@@ -52,7 +52,7 @@ According to the World Health Organization, over **285 million people worldwide*
 
 Our project addresses these challenges by providing a comprehensive, hands-free navigation solution with real-time monitoring capabilities.
 
-## 💡 Solution
+## Solution
 
 Smart Blind Shoes integrates:
 
@@ -68,28 +68,28 @@ Sensor Data → Arduino Processing → Haptic Feedback
             Web Dashboard (Real-time)
 ```
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 
-- ✅ **Multi-directional obstacle detection** (Left, Center, Right, Downward)
-- ✅ **Intelligent zone classification** (Clear, Warning, Alert, Critical)
-- ✅ **Directional haptic feedback** (Left/Right vibration patterns)
-- ✅ **Step counting and activity tracking**
-- ✅ **Battery level monitoring**
-- ✅ **GPS location tracking**
-- ✅ **Emergency alert system**
+- **Multi-directional obstacle detection** (Left, Center, Right, Downward)
+- **Intelligent zone classification** (Clear, Warning, Alert, Critical)
+- **Directional haptic feedback** (Left/Right vibration patterns)
+- **Step counting and activity tracking**
+- **Battery level monitoring**
+- **GPS location tracking**
+- **Emergency alert system**
 
 ### Web Dashboard Features
 
-- 📊 **Real-time data visualization** with interactive charts
-- 🗺️ **GPS location display** with coordinate tracking
-- 📈 **Historical data graphs** showing distance trends
-- 🎛️ **System controls** for mode and sensitivity adjustment
-- 📱 **Responsive design** - works on all devices
-- 🎨 **Modern UI** - Apple/Stripe inspired design
+- **Real-time data visualization** with interactive charts
+- **GPS location display** with coordinate tracking
+- **Historical data graphs** showing distance trends
+- **System controls** for mode and sensitivity adjustment
+- **Responsive design** - works on all devices
+- **Modern UI** - Apple/Stripe inspired design
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────┐
@@ -118,7 +118,7 @@ Sensor Data → Arduino Processing → Haptic Feedback
          └────────────────┘
 ```
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -148,7 +148,7 @@ Sensor Data → Arduino Processing → Haptic Feedback
    - Navigate to `http://localhost:8000` (if using server)
    - Or open `index.html` directly in browser
 
-## 💻 Usage
+## Usage
 
 ### Starting the Dashboard
 
@@ -172,7 +172,7 @@ To connect actual Arduino hardware:
 3. Modify `src/js/app.js` to read from Serial port instead of simulation
 4. Use Web Serial API for browser-to-Arduino communication
 
-## 👥 Team Members
+## Team Members
 
 | Name | Role | Responsibilities |
 |------|------|------------------|
@@ -181,7 +181,7 @@ To connect actual Arduino hardware:
 | **Team Member 3** | Backend & Infrastructure | Server setup, data processing, deployment |
 | **Team Member 4** | Testing & Documentation | System testing, user documentation, presentation materials |
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **HTML5** - Structure
@@ -200,7 +200,7 @@ To connect actual Arduino hardware:
 - **Google Fonts (Inter)** - Typography
 - **Web Serial API** - Browser-Arduino communication (future)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 smart-blind-shoes/
@@ -222,7 +222,7 @@ smart-blind-shoes/
 └── public/               # Public assets (if deploying)
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -232,18 +232,18 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - World Health Organization for statistics on visual impairment
 - Arduino community for hardware support
 - Chart.js for excellent visualization library
 - Apple and Stripe for design inspiration
 
-## 📞 Contact
+## Contact
 
 For questions, suggestions, or collaboration opportunities:
 
@@ -255,9 +255,9 @@ For questions, suggestions, or collaboration opportunities:
 
 <div align="center">
 
-**Made with ❤️ for the visually impaired community**
+**Made with dedication for the visually impaired community**
 
-⭐ Star this repo if you find it helpful!
+Star this repo if you find it helpful!
 
 </div>
 

@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = "sketch.ino"
+diagram = "diagram.json"
+gdbServerPort = 33337

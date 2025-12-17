@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/smart-blind-shoes.git"
+    "url": "https://github.com/UsmanovMahmudkhan/Iot-doc.git"
   },
   "devDependencies": {
     "http-server": "^14.1.1"

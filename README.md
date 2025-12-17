@@ -8,7 +8,7 @@
 
 **AI-Powered Navigation System for Visually Impaired Individuals**
 
-[Live Demo](https://yourusername.github.io/smart-blind-shoes) • [Documentation](./docs/README.md) • [Report Issue](https://github.com/yourusername/smart-blind-shoes/issues)
+[Live Demo](https://wokwi.com/projects/449468602181139457) • [Documentation](./docs/README.md) • [GitHub Repository](https://github.com/UsmanovMahmudkhan/Iot-doc)
 
 </div>
 
@@ -129,8 +129,8 @@ Sensor Data → Arduino Processing → Haptic Feedback
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-blind-shoes.git
-   cd smart-blind-shoes
+   git clone https://github.com/UsmanovMahmudkhan/Iot-doc.git
+   cd Iot-doc
    ```
 
 2. **Open the project**
@@ -247,9 +247,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities:
 
-- **Project Repository**: [GitHub](https://github.com/yourusername/smart-blind-shoes)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/smart-blind-shoes/issues)
-- **Email**: your.email@example.com
+- **Project Repository**: [GitHub](https://github.com/UsmanovMahmudkhan/Iot-doc)
+- **Live Simulation**: [Wokwi](https://wokwi.com/projects/449468602181139457)
+- **Portfolio**: [View Portfolio](./portfolio.html)
 
 ---
 
